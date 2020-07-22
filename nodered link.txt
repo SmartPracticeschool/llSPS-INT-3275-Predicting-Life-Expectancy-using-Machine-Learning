@@ -1,1 +1,0 @@
-NODE-RED link:https://node-red-pcmzv.eu-gb.mybluemix.net/ui/
